@@ -1,5 +1,5 @@
 # Image-segmentation-
 
 
-Image Segmentation with PyTorch
+Image Segmentation with Fastai
  
